@@ -1,0 +1,7 @@
+{
+  "widgetClassName": "GAUserRetentionWidget",  
+  "isReactComponent": "true",
+  "positionX": "0",
+  "positionY": "0",
+  "main": "Init",
+}
